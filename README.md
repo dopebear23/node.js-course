@@ -1,2 +1,2 @@
 # node.js-course
-node.js course by mosh
+A complete node.js course by mosh
